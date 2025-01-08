@@ -1,3 +1,15 @@
+"""
+WiHack - Programa para Auditoría de Redes
+
+Autor: Ivan Fernandez Rodriguez
+Fecha: 08/01/2025
+Descripción: Archivo principal que coordina la ejecución del programa.
+
+Nota: Este programa está diseñado únicamente con fines educativos y éticos.
+      El uso indebido puede acarrear consecuencias legales.
+"""
+
+
 import threading
 import mon_manage
 import recon_attack

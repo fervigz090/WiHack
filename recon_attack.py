@@ -1,3 +1,10 @@
+"""
+Autor: Ivan Fernandez Rodriguez
+Fecha: 08/01/2025
+Descripción: Implementa las fases de reconocimiento y ataque de deautenticacion.
+
+"""
+
 from scapy.all import *
 import re
 

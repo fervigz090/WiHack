@@ -1,3 +1,10 @@
+"""
+Autor: Ivan Fernandez Rodriguez
+Fecha: 08/01/2025
+Descripción: Gestiona el estado de la interfaz que se utiliza para las pruebas.
+
+"""
+
 import subprocess
 
 class Mon_Manage:
@@ -10,7 +17,7 @@ class Mon_Manage:
         Activa el modo monitor en la interfaz especificada.
         
         :param interface: Nombre de la interfaz de red (e.g., wlan0).
-        :return: Nombre de la interfaz en modo monitor (e.g., wlan0mon).
+        :return: Nombre de la interfaz en modo monitor (e.g., wlan0).
         """
         try:
             print(f"[+] Eliminando procesos conflictivos...")
