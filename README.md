@@ -48,13 +48,16 @@ El uso no autorizado del programa puede tener las siguientes consecuencias:
    cd wihack
 
 2. Asegurate de tener las dependencias necesarias instaladas:
-    Python3
-    Aircrack-ng
-    Airodump-ng
-    Airmon-ng
+    ```bash
+    sudo apt install Python3
+    sudo apt install aircrack-ng
+    sudo apt install airodump-ng
+    sudo apt install airmon-ng
 
 3. Activa el entorno .venv:
+    ```bash
     source .venv/bin/activate
 
 4. Ejecuta la ayuda del programa:
+    ```bash
     sudo python wihack.py --help
