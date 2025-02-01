@@ -44,7 +44,7 @@ El uso no autorizado del programa puede tener las siguientes consecuencias:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/wihack.git
+   git clone https://github.com/fervigz090/WiHack.git
    cd wihack
 
 2. Asegurate de tener las dependencias necesarias instaladas:
