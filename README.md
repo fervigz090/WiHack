@@ -54,7 +54,7 @@ El uso no autorizado del programa puede tener las siguientes consecuencias:
     sudo apt install airodump-ng
     sudo apt install airmon-ng
 
-3. Activa el entorno .venv:
+3. O activa el entorno .venv:
     ```bash
     source .venv/bin/activate
 
